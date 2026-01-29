@@ -18,10 +18,10 @@ A través de las tablas dinámicas, se identificaron los siguientes puntos:
 * **Visualización de Datos:** Creación de gráficos de barras y circulares para comparar el desempeño regional.
 
 ## 🖼️ Visualización del Proyecto
-*(Aquí puedes insertar una captura de pantalla de tu dashboard en Excel)*
-![Dashboard Screenshot](screenshots/dashboard_main.png)
+![Dashboard Screenshot]([CapturaEcommerce.JPG))
 
 ## 🚀 Cómo usar este archivo
 1. Descarga el archivo `.xlsx`.
 2. Utiliza los segmentadores de la derecha para filtrar por el periodo de tiempo deseado.
 3. Las tablas y gráficos se actualizarán automáticamente.
+4. El dataset se obtuvo de kaggle: https://www.kaggle.com/datasets/zahranusratt/e-commerce-orders-and-sales-performance-dataset
