@@ -18,7 +18,7 @@ A través de las tablas dinámicas, se identificaron los siguientes puntos:
 * **Visualización de Datos:** Creación de gráficos de barras y circulares para comparar el desempeño regional.
 
 ## 🖼️ Visualización del Proyecto
-![Dashboard Screenshot]([CapturaEcommerce.JPG))
+![Dashboard Screenshot]([https://github.com/CrhistianZahir/ecommerce-sales-dashboard-excel/blob/main/CapturaEcommerce.JPG))
 
 ## 🚀 Cómo usar este archivo
 1. Descarga el archivo `.xlsx`.
